@@ -1,0 +1,33 @@
+{
+  "name": "AULARD SPENCER MARTINE MARIE-T",
+  "short_name": "AULARD Ops",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#031B1F",
+  "theme_color": "#031B1F",
+  "description": "Local operations management for visitors, quality checks, incidents, and appointments.",
+  "icons": [
+    {
+      "src": "icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/Icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
