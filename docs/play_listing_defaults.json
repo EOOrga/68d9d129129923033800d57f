@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "applications": {
+    "com.taziggg100.aulardops": {
+      "title": "AULARD SPENCER MARTINE MARIE-T",
+      "short_description": "Manage visitors, quality checks, incidents, and appointments from one local...",
+      "full_description": "AULARD SPENCER MARTINE MARIE-T helps small business teams keep daily site activity organized without accounts or cloud services. Staff can record visitors, log quality checklist outcomes, report incidents, and schedule appointments from a focused Android workflow.\n\nEach section keeps practical status, priority, timing, and notes so the team can see what needs attention during the day. Records are stored locally on the device and can be updated or restored from the app settings.",
+      "source_screenshots": [
+        "docs/screens/1.png",
+        "docs/screens/2.png",
+        "docs/screens/3.png"
+      ],
+      "generated_from": "existing repository listing metadata and README",
+      "generated_at": "2026-10-02T21:28:41.455506+00:00"
+    }
+  }
+}
