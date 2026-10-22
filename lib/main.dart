@@ -584,7 +584,7 @@ class DashboardScreen extends StatelessWidget {
         ),
         const SizedBox(height: 18),
         _SectionHeader(
-          title: 'Priority queue',
+          title: 'AULARD SPENCER MARTINE MARIE-T',
           icon: Icons.priority_high_rounded,
         ),
         const SizedBox(height: 10),

@@ -1,4 +1,4 @@
-name: aulard_ops
+name: aulardops
 description: Local operations management for visitors, quality checks, incidents, and appointments.
 publish_to: 'none'
 version: 1.0.0+1
@@ -26,6 +26,6 @@ flutter:
 flutter_launcher_icons:
   android: true
   image_path: docs/icon.png
-  adaptive_icon_background: '#031B1F'
+  adaptive_icon_background: "#FF931F"
   adaptive_icon_foreground: docs/icon.png
   min_sdk_android: 23
